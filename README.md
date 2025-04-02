@@ -9,3 +9,9 @@
   
 ![Tabla Final del Torneo](image/tabla.png)
 - Link: https://chess-results.com/tnr1133646.aspx?lan=2&art=1&rd=6&turdet=YES&flag=30
+
+![Partida 1](image/p1.png)
+![Partida 2](image/p2.png)
+![Partida 5](image/p5.png)
+![Partida 6](image/p6.png)
+
