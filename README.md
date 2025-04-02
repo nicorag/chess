@@ -9,4 +9,5 @@
 
 - Puntaje: 4/6 pts
 - Posición: 3°
+  ![Tabla Final del Torneo](image/tabla.png)
 - Link: https://chess-results.com/tnr1133646.aspx?lan=2&art=1&rd=6&turdet=YES&flag=30
