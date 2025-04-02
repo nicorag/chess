@@ -1,0 +1,32 @@
+[Event "IRT sub 2400 Aldo Torrillas"]
+[Site "La Plata, Argentina"]
+[Date "2025.03.28"]
+[Round "1"]
+[White "Martinez Tomás"]
+[Black "Nicora Guillermo"]
+[Result "0-1"]
+
+1. e4 c6 
+2. Nf3 d5 
+3. Nc3 Bg4 
+4. h3 Bh5 
+5. g4 Bg6 
+6. exd5 cxd5 
+7. Ne5 a6 
+8. h4 d4 
+9. h5 Bxc2 
+10. Qxc2 dxc3 
+11. Qa4+ Nd7 
+12. dxc3 b5 
+13. Qf4 Nxe5 
+14. Qxe5 Nf6 
+15. Bg2 Ra7 
+16. Bc6+ Nd7 
+17. Be3 Rc7 
+18. Bb6 Rxc6 
+19. Bxd8 Nxe5 
+20. O-O-O e6 
+21. Bh4 Be7 
+22. Bxe7 Kxe7 
+23. Rhg1 Rd8 
+24. f4 Nd3+
