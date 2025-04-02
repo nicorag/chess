@@ -1,7 +1,7 @@
 - Mis partidas jugadas en el IRT sub 2400 "Aldo Torrillas". Club de Ajedrez de La Plata 28, 29 y 30 de Marzo 2025
 
 1. Ronda 1: Martinez, Tomás 0-1 Nicora, Guillermo
-2. Ronda 2: Nicora, Guillermo 1/2-1/2 Bayinay, Santiago
+2. Ronda 2: Nicora, Guillermo 1/2-1/2 Bayinay, Juan Santiago
 3. Ronda 3: Bye
 4. Ronda 4: Bye
 5. Ronda 5: Bahía, Lucas 0-1 Nicora, Guillermo
