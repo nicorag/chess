@@ -1,0 +1,8 @@
+[Event "IRT sub 2400 Aldo Torrillas"]
+[Site "La Plata, Argentina"]
+[Date "2025.03.30"]
+[Round "5"]
+[White "Bahía Lucas"]
+[Black "Nicora Guillermo"]
+[Result "0-1"]
+
